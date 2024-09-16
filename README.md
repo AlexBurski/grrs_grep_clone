@@ -43,10 +43,13 @@ Case-insensitive search for "error" using parallel processing:
 grrs -i -p error large_log_file.txt
 ```
 
+## Acknowledgments
+This project is based on:
+
+Examples from the Rust CLI Book
+Code generated with assistance from Anthropic's Claude AI
+Original contributions by Alex Burski
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
