@@ -19,7 +19,7 @@
 
 1. Clone the repository (or download the source code):
    ```
-   git clone https://github.com/yourusername/grrs.git
+   git clone https://github.com/AlexBurski/grrs_grep_clone.git
    cd grrs
    ```
 
